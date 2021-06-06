@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo:
-      'https://pixabay.com/get/gea11c7bce51b55baee0c11fc281f6de9e436dba1818ab4b0a4a342adc5dfec0eadade0888616d883b3b9dd18eba052f0.svg',
+      'https://res.cloudinary.com/pil0t/image/upload/v1622821393/Tree-Act-full-color_we0vfl.svg',
     logoLink: 'https://treeact.cc',
     title: 'Tree-acT DOCS',
     githubUrl: 'https://github.com/caucse-hercules/Tree-acT',
