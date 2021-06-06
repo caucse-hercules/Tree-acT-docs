@@ -44,7 +44,12 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Get Tree-acT', link: 'https://github.com/caucse-hercules/Tree-acT' }],
+    links: [
+      {
+        text: 'Get Tree-acT',
+        link: 'https://marketplace.visualstudio.com/items?itemName=Tree-acT.Tree-acT',
+      },
+    ],
     frontline: false,
     ignoreIndex: true,
     // title:
@@ -56,7 +61,7 @@ const config = {
     ogImage: null,
     docsLocation: 'https://github.com/caucse-hercules/Tree-acT-page/tree/master/content',
     favicon:
-      'https://pixabay.com/get/g18ad6eda480065d06cfb869112b70fc95928e43ad6df1303c6e3d6127ce5dab57a1ca9fca19758bb34813157b04e9b66.svg',
+      'https://res.cloudinary.com/pil0t/image/upload/v1622821393/Tree-Act-full-color_we0vfl.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
