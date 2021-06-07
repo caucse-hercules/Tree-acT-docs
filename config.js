@@ -37,13 +37,10 @@ const config = {
     },
   },
   sidebar: {
-    forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
-    ],
-    collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
-    ],
+    forcedNavOrder: [],
+    // collapsedNav: [
+    //   '/codeblock', // add trailing slash if enabled above
+    // ],
     links: [
       {
         text: 'Get Tree-acT',
@@ -59,7 +56,7 @@ const config = {
     title: 'Tree-acT | Generate your react project with Tree',
     description: 'Learn how to use Tree-acT',
     ogImage: null,
-    docsLocation: 'https://github.com/caucse-hercules/Tree-acT-page/tree/master/content',
+    docsLocation: 'https://github.com/caucse-hercules/Tree-acT-docs/tree/master/content',
     favicon:
       'https://res.cloudinary.com/pil0t/image/upload/v1622821393/Tree-Act-full-color_we0vfl.svg',
   },
